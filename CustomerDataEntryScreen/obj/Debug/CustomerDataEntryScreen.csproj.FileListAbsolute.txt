@@ -1,0 +1,46 @@
+c:\users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\CustomerDataEntryScreen.exe.config
+c:\users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\CustomerDataEntryScreen.exe
+c:\users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\CustomerDataEntryScreen.pdb
+c:\users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.frmCustomerDataEntry.resources
+c:\users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.Properties.Resources.resources
+c:\users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.csproj.GenerateResource.Cache
+c:\users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.exe
+c:\users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.pdb
+C:\Users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.csprojResolveAssemblyReference.cache
+C:\Users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.frmPreviewCustomer.resources
+C:\Users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.MDIParent1.resources
+C:\Users\tarik\documents\visual studio 2012\Projects\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.FrmSearchCustomers.resources
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\CustomerDataEntryScreen.exe.config
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.exe
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\CustomerDataEntryScreen.exe
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\CustomerDataEntryScreen.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.frmCustomerDataEntry.resources
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.FrmSearchCustomers.resources
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.MDIParent1.resources
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.Properties.Resources.resources
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.csproj.GenerateResource.Cache
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.csprojResolveAssemblyReference.cache
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\DataAccess.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\DataAccess.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\MiddleTier.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\MiddleTier.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.login.resources
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\CustomerDataEntryScreen.exe.config
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.exe
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\UserDb.mdf
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\UserDb_log.ldf
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\CustomerDataEntryScreen.exe
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\CustomerDataEntryScreen.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\MiddleTier.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\DataAccess.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\MiddleTier.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\bin\Debug\DataAccess.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.csprojResolveAssemblyReference.cache
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.login.resources
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.frmCustomerDataEntry.resources
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.FrmSearchCustomers.resources
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.MDIParent1.resources
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.Properties.Resources.resources
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryScreen\obj\Debug\CustomerDataEntryScreen.csproj.GenerateResource.Cache

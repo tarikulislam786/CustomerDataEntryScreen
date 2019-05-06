@@ -1,0 +1,38 @@
+CREATE TABLE [dbo].[CountryMaster] (
+    [CountryId]   INT        NOT NULL,
+    [CountryName] NCHAR (10) NULL,
+    PRIMARY KEY CLUSTERED ([CountryId] ASC)
+);
+
+
+---------------------------
+/* CREATE TABLE [dbo].[CustomerTable] (
+    [ID] int IDENTITY(1,1) PRIMARY KEY,
+    [CustomerName] NVARCHAR (50)  NULL,
+    [CountryId_FK] INT            NULL,
+    [Gender]       NCHAR (10)     NULL,
+    [Hobbies]      NCHAR (10)     NULL,
+    [Email]        NVARCHAR (100) NULL,
+    [Married]      BIT            NULL
+); */
+
+
+
+CREATE TABLE [dbo].[CustomerTable] (
+    [CustomerName] NVARCHAR (50)  NULL,
+    [CountryId_FK] NCHAR (50) NULL,
+    [Gender]       NCHAR (10)     NULL,
+    [Hobbies]      NCHAR (10)     NULL,
+    [Email]        NVARCHAR (100) NULL,
+    [Married]      BIT            NULL
+);
+
+
+
+------------------------
+CREATE TABLE [dbo].[Users] (
+    [Id]       INT           NOT NULL,
+    [UserName] NVARCHAR (50) NULL,
+    [Password] NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);

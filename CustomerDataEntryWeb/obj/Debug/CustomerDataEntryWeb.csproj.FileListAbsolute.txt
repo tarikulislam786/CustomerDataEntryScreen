@@ -1,0 +1,19 @@
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\CustomerDataEntryWeb.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\CustomerDataEntryWeb.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryWeb\obj\Debug\CustomerDataEntryWeb.csprojResolveAssemblyReference.cache
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryWeb\obj\Debug\CustomerDataEntryWeb.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryWeb\obj\Debug\CustomerDataEntryWeb.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\DataAccess.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\DataAccess.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\MiddleTier.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\MiddleTier.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\CustomerDataEntryWeb.dll.config
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\CustomerDataEntryWeb.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\CustomerDataEntryWeb.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\DataAccess.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\MiddleTier.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\DataAccess.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\bin\MiddleTier.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\obj\Debug\CustomerDataEntryWeb.csprojResolveAssemblyReference.cache
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\obj\Debug\CustomerDataEntryWeb.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\CustomerDataEntryWeb\obj\Debug\CustomerDataEntryWeb.pdb

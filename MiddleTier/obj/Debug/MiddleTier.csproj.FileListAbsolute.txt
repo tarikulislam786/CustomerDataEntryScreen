@@ -1,0 +1,14 @@
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\MiddleTier\bin\Debug\MiddleTier.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\MiddleTier\bin\Debug\MiddleTier.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\MiddleTier\obj\Debug\MiddleTier.csprojResolveAssemblyReference.cache
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\MiddleTier\obj\Debug\MiddleTier.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\MiddleTier\obj\Debug\MiddleTier.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\MiddleTier\bin\Debug\DataAccess.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\MiddleTier\bin\Debug\DataAccess.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\MiddleTier\bin\Debug\MiddleTier.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\MiddleTier\bin\Debug\MiddleTier.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\MiddleTier\bin\Debug\DataAccess.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\MiddleTier\bin\Debug\DataAccess.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\MiddleTier\obj\Debug\MiddleTier.csprojResolveAssemblyReference.cache
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\MiddleTier\obj\Debug\MiddleTier.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\MiddleTier\obj\Debug\MiddleTier.pdb

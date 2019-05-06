@@ -1,0 +1,10 @@
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\tarik\Desktop\C# project\CustomerDataEntryScreen\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\DataAccess\bin\Debug\DataAccess.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\DataAccess\bin\Debug\DataAccess.pdb
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\DataAccess\obj\Debug\DataAccess.dll
+F:\VISUAL STUDIO PROJECT BACK\CustomerDataEntryScreen\DataAccess\obj\Debug\DataAccess.pdb
